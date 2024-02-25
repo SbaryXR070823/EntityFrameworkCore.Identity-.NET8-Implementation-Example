@@ -1,0 +1,13 @@
+*.vsidx
+IdentityExample/.vs/
+IdentityExample/IdentityExample.Constants/bin/
+IdentityExample/IdentityExample.Constants/obj/
+IdentityExample/IdentityExample.DataAccess/bin/
+IdentityExample/IdentityExample.DataAccess/obj/
+IdentityExample/IdentityExample/obj/
+IdentityExample/IdentityExample/wwwroot/lib/bootstrap/dist/
+IdentityExample/IdentityExample/bin/
+IdentityExample/IdentityExample.Utility/bin/
+IdentityExample/IdentityExample.Utility/obj/
+IdentityExample/IdentityExample.Models/obj/
+IdentityExample/IdentityExample.Models/bin/
