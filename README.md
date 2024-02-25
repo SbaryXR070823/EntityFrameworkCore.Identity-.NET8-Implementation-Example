@@ -77,4 +77,4 @@ You have pretty much any example you need for a basic authorization system added
 
 # Conclusion
 
-Congratulations! You have successfully configured an Authorization Login and Register System using Entity Framework Identity. If you encounter any issues or have questions, refer to the GitHub repository for support or message me on my personal email or any another social media account specified.
+Congratulations! You have successfully configured an Authorization Login and Register System using Entity Framework Identity. If you encounter any issues or have questions, refer to the GitHub repository for support or message me on my personal email or any other social media account specified.
